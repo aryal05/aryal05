@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajat Aryal.
 - 👀 I’m interested mostly in Mern Stack.
 - 🌱 I’m currently learning Mern Stack and building projects.
-- 💞️ I’m looking to collaborate on Companies.
+- 💞️ I’m looking to collaborate in Companies.
 - 📫aryal.rajat05@gmail.com
 
 
